@@ -1,5 +1,7 @@
 # Minishell_42
-|rl_clear_history|This function clears the entire history list maintained by Readline. The history list stores previously entered commands, and can be accessed using the arrow keys or other similar keybindings|
+| function        | Description
+|-----------------|--------------------------------------------------------|
+|rl_clear_history |This function clears the entire history list maintained by Readline. The history list stores previously entered commands, and can be accessed using the arrow keys or other similar keybindings|
 
 rl_on_new_line(): This function tells Readline that a new line of input is about to be entered. It is typically called after the user presses the Enter key to submit a command.
 
